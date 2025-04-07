@@ -1,0 +1,4 @@
+#string_concatination
+A="ssr "
+B="rajpoot"
+print(A+B)
