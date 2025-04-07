@@ -1,0 +1,7 @@
+t=(12,45,56,67,89)
+print(t)
+t=t+(20,)
+print(t)
+l=list(t)
+l.append(l)
+print(t)
